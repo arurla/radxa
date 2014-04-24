@@ -1,10 +1,10 @@
 # About this repository
 
-This repository was forked from [https://github.com/rkchrome/kernel](https://github.com/rkchrome/kernel). It seems it includes all history of Rockchip's master branch.
+This repository was forked from [https://github.com/rkchrome/kernel](https://github.com/rkchrome/kernel). It seems it includes all history (since RK2818/Linux 2.6.32) of Rockchip's master branch.
 
 # Branches
 
-## Rockchip original
+## Rockchip
 
 <table>
   <tr>
