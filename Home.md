@@ -9,11 +9,11 @@ This repository was forked from [https://github.com/rkchrome/kernel](https://git
 <table>
   <tr>
     <th>rockchip-3.0</th>
-    <td>not perfect, but latest</td>
+    <td>RK29xx/RK30xx/RK31xx (not perfect, but latest)</td>
   </tr>
   <tr>
     <th>rockchip-3.10</th>
-    <td>latest</td>
+    <td>RK31xx/RK32xx</td>
   </tr>
   <tr>
     <th>rockchip-3.0-rbox-jb</th>
