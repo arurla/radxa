@@ -8,16 +8,16 @@ This repository was forked from [https://github.com/rkchrome/kernel](https://git
 
 <table>
   <tr>
-    <th>rockchip-3.0</th>
-    <td>RK29xx/RK30xx/RK31xx (not perfect, but latest)</td>
-  </tr>
-  <tr>
     <th>rockchip-3.10-rk3188</th>
     <td>RK3188</td>
   </tr>
   <tr>
     <th>rockchip-3.10-rk3288</th>
     <td>RK3288</td>
+  </tr>
+  <tr>
+    <th>rockchip-3.0</th>
+    <td>RK29xx/RK30xx/RK31xx (not perfect, but latest)</td>
   </tr>
   <tr>
     <th>rockchip-3.0-rbox-jb</th>
@@ -39,6 +39,19 @@ This repository was forked from [https://github.com/rkchrome/kernel](https://git
   <tr>
     <th>radxa/radxa-dev-kk</th>
     <td>Radxa Rock Android 4.4.2 and Linux</td>
+  </tr>
+</table>
+
+## Work-in-progress
+
+<table>
+  <tr>
+    <th>wip/lsk-android-14.04-rk3188</th>
+    <td>lsk-android-14.04 for RK3188</td>
+  </tr>
+  <tr>
+    <th>wip/lsk-android-14.04-radxa-rock</th>
+    <td>lsk-android-14.04 for Radxa Rock (temporary)</td>
   </tr>
 </table>
 
