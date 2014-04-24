@@ -17,7 +17,7 @@ This repository was forked from [https://github.com/rkchrome/kernel](https://git
   </tr>
   <tr>
     <th>rockchip-3.0</th>
-    <td>RK29xx/RK30xx/RK31xx (not perfect, but latest)</td>
+    <td>RK29xx/RK30xx/RK31xx (not up-to-date)</td>
   </tr>
   <tr>
     <th>rockchip-3.0-rbox-jb</th>
