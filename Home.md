@@ -17,15 +17,15 @@ This repository was forked from [https://github.com/rkchrome/kernel](https://git
   </tr>
   <tr>
     <th>rockchip-3.0</th>
-    <td>RK29xx/RK30xx/RK31xx (not up-to-date)</td>
+    <td>RK29xx/RK30xx/RK31xx (not up-to-date, but latest in public)</td>
   </tr>
   <tr>
     <th>rockchip-3.0-rbox-jb</th>
-    <td>RK3188_R-BOX_ANDROID4.2.2-SDK_V1.0.0_130514 and updates</td>
+    <td>kernel subtree from RK3188_R-BOX_ANDROID4.2.2-SDK_V1.0.0_130514 and updates</td>
   </tr>
   <tr>
     <th>rockchip-3.0-rbox-kk</th>
-    <td>RK3188&RK3066_R-BOX_ANDROID4.4.2-SDK_V1.0.0_140318 and updates</td>
+    <td>kernel subtree from RK3188&RK3066_R-BOX_ANDROID4.4.2-SDK_V1.0.0_140318 and updates</td>
   </tr>
 </table>
 
@@ -47,11 +47,11 @@ This repository was forked from [https://github.com/rkchrome/kernel](https://git
 <table>
   <tr>
     <th>wip/lsk-android-14.04-rk3188</th>
-    <td>lsk-android-14.04 for RK3188</td>
+    <td>Linaro lsk-android-14.04 for RK3188</td>
   </tr>
   <tr>
     <th>wip/lsk-android-14.04-radxa-rock</th>
-    <td>lsk-android-14.04 for Radxa Rock (temporary)</td>
+    <td>Linaro lsk-android-14.04 for Radxa Rock (temporary, 1 kernel and *.dts per device should be better)</td>
   </tr>
 </table>
 
