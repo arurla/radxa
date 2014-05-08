@@ -51,7 +51,7 @@ This repository was forked from [https://github.com/rkchrome/kernel](https://git
   </tr>
   <tr>
     <th>wip/lsk-android-14.04-radxa-rock</th>
-    <td>Linaro lsk-android-14.04 for Radxa Rock (temporary, 1 kernel and *.dts per device should be better)</td>
+    <td>Linaro lsk-android-14.04 for Radxa Rock (temporary, all changes should be merged into wip/lsk-android-14.04-rk3188 branch)</td>
   </tr>
 </table>
 
