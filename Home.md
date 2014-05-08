@@ -44,6 +44,8 @@ This repository was forked from [https://github.com/rkchrome/kernel](https://git
 
 ## Work-in-progress
 
+branches under wip/ may be rebased.
+
 <table>
   <tr>
     <th>wip/lsk-android-14.04-rk3188</th>
