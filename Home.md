@@ -40,10 +40,6 @@ This repository was forked from [https://github.com/rkchrome/kernel](https://git
     <th>radxa/radxa-dev-kk</th>
     <td>Radxa Rock Android 4.4.2 and Linux</td>
   </tr>
-  <tr>
-    <th>wip/htc-t010-v2</th>
-    <td>Hotack HTC-T010-V2/V3 (a.k.a. MK802IV, MK809III, etc with AP6210)</td>
-  </tr>
 </table>
 
 ## Work-in-progress
@@ -51,6 +47,10 @@ This repository was forked from [https://github.com/rkchrome/kernel](https://git
 branches under wip/ may be rebased.
 
 <table>
+  <tr>
+    <th>wip/htc-t010-v2</th>
+    <td>Hotack HTC-T010-V2/V3 (a.k.a. MK802IV, MK809III, etc with AP6210)</td>
+  </tr>
   <tr>
     <th>wip/lsk-android-14.04-rk3188</th>
     <td>Linaro lsk-android-14.04 for RK3188</td>
