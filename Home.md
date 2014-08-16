@@ -33,6 +33,10 @@ This repository was forked from [https://github.com/rkchrome/kernel](https://git
 
 <table>
   <tr>
+    <th>radxa/stable-3.0</th>
+    <td>Radxa Rock(and Pro) Android 4.4.2/Linux kernel, there is the preferred branch</td>
+  </tr>
+  <tr>
     <th>radxa/radxa-dev-jb</th>
     <td>Radxa Rock Android 4.2.2 (RR full/lite)</td>
   </tr>
