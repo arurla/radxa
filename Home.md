@@ -6,6 +6,6 @@
 
 * **mirror/rk3188-stable-3.0**: kernel from rockchip tablet SDK with all git history
 
-* **radxa-rbox**: kernel for rock/pro/lite based on mirror/rk3188-rbox-jb, it supports hdmi and TV out.
+* **radxa-rbox**: kernel for rock/pro/lite based on mirror/rk3188-rbox-kk, it supports hdmi and TV out.
 
 * **radxa-stable-3.0**: kernel for rock/pro/lite based on mirror/rk3188-stable-3.0, it supports dual same display at hdmi and lvds(rock pro/lite only).
