@@ -1,85 +1,11 @@
-# About this repository
+### branches
 
-This repository was forked from [https://github.com/rkchrome/kernel](https://github.com/rkchrome/kernel). It seems it includes all history (since RK2818/Linux 2.6.32) of Rockchip's master branch.
+* **mirror/rk3188-rbox-jb**: kernel split from [rockchip rk3100 rbox 4.2.2 SDK](http://git.jp.linux-rockchip.org/?p=rk3188_r-box_android4.2.2_sdk.git;a=shortlog;h=refs/heads/master)
 
-Android SDK is [here](http://git.linux-rockchip.org/).
+* **mirror/rk3188-rbox-kk**: kernel split from [rockchip rk3188 rbox 4.4.2 SDK](http://git.jp.linux-rockchip.org/?p=rk3188_rk3066_r-box_android4.4.2_sdk.git;a=shortlog;h=refs/heads/master)
 
-# Branches
+* **mirror/rk3188-stable-3.0**: kernel from rockchip tablet SDK with all git history
 
-## Rockchip
+* **radxa-rbox**: kernel for rock/pro/lite based on mirror/rk3188-rbox-jb, it supports hdmi and TV out.
 
-<table>
-  <tr>
-    <th>rockchip-3.0-stable</th>
-    <td>RK29xx/RK30xx/RK31xx</td>
-  </tr>
-  <tr>
-    <th>rockchip-3.0-rbox-kk</th>
-    <td>kernel subtree from RK3188&RK3066_R-BOX_ANDROID4.4.2-SDK_V1.0.0_140318 and updates</td>
-  </tr>
-  <tr>
-    <th>rockchip-3.0-rbox-jb</th>
-    <td>kernel subtree from RK3188_R-BOX_ANDROID4.2.2-SDK_V1.0.0_130514 and updates</td>
-  </tr>
-</table>
-
-## Device specific
-
-<table>
-  <tr>
-    <th>radxa/stable-3.0</th>
-    <td>Radxa Rock(and Pro) Android 4.4.2/Linux kernel, this is the preferred branch for radxa rock and pro</td>
-  </tr>
-  <tr>
-    <th>radxa/rock2014</th>
-    <td>kernel subtree for Radxa Rock Android 4.4.2 (RR pro)</td>
-  </tr>
-  <tr>
-    <th>radxa/radxa-dev-kk</th>
-    <td>kernel subtree for Radxa Rock Android 4.4.2 (RR full/lite)</td>
-  </tr>
-  <tr>
-    <th>radxa/radxa-dev-jb</th>
-    <td>kernel subtree for Radxa Rock Android 4.2.2 (RR full/lite)</td>
-  </tr>
-</table>
-
-## Work-in-progress
-
-branches under wip/ may be rebased.
-
-<table>
-  <tr>
-    <th>wip/htc-t010-v2</th>
-    <td>Hotack HTC-T010-V2/V3 (a.k.a. MK802IV, MK809III, etc with AP6210)</td>
-  </tr>
-  <tr>
-    <th>wip/lsk-android-14.04-radxa-rock</th>
-    <td>Linaro lsk-android-14.04 for Radxa Rock</td>
-  </tr>
-</table>
-
-## Mirrors
-
-<table>
-  <tr>
-    <th>aosp/android-3.0</th>
-    <td></td>
-  </tr>
-  <tr>
-    <th>aosp/android-3.10</th>
-    <td></td>
-  </tr>
-  <tr>
-    <th>linaro/linux-linaro-lsk-v3.10-android</th>
-    <td></td>
-  </tr>
-  <tr>
-    <th>linux-stable/linux-3.0.y</th>
-    <td></td>
-  </tr>
-  <tr>
-    <th>linux-stable/linux-3.10.y</th>
-    <td></td>
-  </tr>
-</table>
+* **radxa-stable-3.0**: kernel for rock/pro/lite based on mirror/rk3188-stable-3.0, it supports dual same display at hdmi and lvds(rock pro/lite only).
